@@ -7,3 +7,5 @@ spring:
         git:
           uri: https://github.com/ggyangzhiyu/config-server
 
+profile:dev
+
